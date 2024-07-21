@@ -1,10 +1,16 @@
 ---
 layout: page
-title:  Page title
+title:  Hidden Variables
 ---
 
-# Page 1
+# Variables and their conjugates
 {% include lib/mathjax.html %}
 
-When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are <br><br>
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+$$
+  \Huge
+  \begin{align*}
+  d &\mid b \\
+  \hline
+  q &\mid p
+  \end{align*}
+$$
