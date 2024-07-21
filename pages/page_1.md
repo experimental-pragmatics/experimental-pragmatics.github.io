@@ -3,7 +3,7 @@ layout: page
 title:  Hidden Variables
 ---
 
-# Variables and their conjugates
+### Variables and their (hidden) conjugates
 {% include lib/mathjax.html %}
 
 $$
